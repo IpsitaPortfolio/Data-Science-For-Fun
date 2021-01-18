@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1610966547162.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1934478741",
+    "id" : "E99E8CA6",
+    "lastKnownWriteTime" : 1610966584,
+    "last_content_update" : 1610966584028,
+    "path" : "~/Data Science For Fun/For Fun.R",
+    "project_path" : "For Fun.R",
+    "properties" : {
+        "cursorPosition" : "0,27",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
